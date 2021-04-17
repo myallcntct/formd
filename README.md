@@ -51,7 +51,7 @@ And if you'd like to use syntax highlighting, include the language:
 if (isAwesome){
   return true
 }
-'''
+```
 
 - [x] This is a complete item
 - [ ] This is an incomplete item
