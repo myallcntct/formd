@@ -26,7 +26,9 @@
   - Like this
   - And this
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of wbdsevice](http://logo.wbdservice.net/logo.png)
+
+<a href="http://wbdservice.net/" target="_blank"><img src="http://logo.wbdservice.net/logo.png" width="150"></a>
 
 > Coffee. The finest organic suspension ever devised... I beat the Borg with it.
 > - Captain Janeway
